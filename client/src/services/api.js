@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://ciphersqlstudio-gfa3.onrender.com";
 
 const getToken = () => localStorage.getItem("css_token");
 

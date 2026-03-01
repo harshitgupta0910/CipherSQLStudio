@@ -149,7 +149,7 @@ cd server
 npm run dev
 ```
 
-Server runs on `http://localhost:5000`
+Server runs on `https://ciphersqlstudio-gfa3.onrender.com`
 
 **Terminal 2 — client**
 
